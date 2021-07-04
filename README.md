@@ -27,7 +27,7 @@ return view('vendor.installer.environment-wizard', compact('errors'));
 
 And change this URL to anything:
 
-https://api.envato.com/v3/market/author/sale?code={$code}
+https://api.purchasesource.com/v3/market/author/sale?code={$code}
 
 to
 
